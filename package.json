@@ -1,0 +1,25 @@
+{
+  "name": "footprinter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cesium": "^1.98.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "dotenv": "^16.0.3",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "devDependencies": {
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
